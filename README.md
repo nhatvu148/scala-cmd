@@ -10,3 +10,5 @@
 
 - scalac ScalaTutorial.scala -d Hello.jar
 - scala Hello.jar
+
+## Scala collections: Array, ArrayBuffer, Map, Tuple, List
